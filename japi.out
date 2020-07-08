@@ -1,0 +1,76 @@
+Enter the symbol of stock('quit' to quit): {
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "375.4100",
+        "03. high": "378.6200",
+        "04. low": "372.2300",
+        "05. price": "372.6900",
+        "06. volume": "27058500",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "373.8500",
+        "09. change": "-1.1600",
+        "10. change percent": "-0.3103%"
+    }
+}
+The current price of aapl is: 372.6900
+Enter the symbol of stock('quit' to quit): {
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "210.4500",
+        "03. high": "214.6700",
+        "04. low": "207.9900",
+        "05. price": "208.2500",
+        "06. volume": "32994800",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "210.7000",
+        "09. change": "-2.4500",
+        "10. change percent": "-1.1628%"
+    }
+}
+The current price of msft is: 208.2500
+Enter the symbol of stock('quit' to quit): {
+    "Global Quote": {
+        "01. symbol": "AMZN",
+        "02. open": "3058.5500",
+        "03. high": "3069.5500",
+        "04. low": "2990.0000",
+        "05. price": "3000.1200",
+        "06. volume": "5142400",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "3057.0400",
+        "09. change": "-56.9200",
+        "10. change percent": "-1.8619%"
+    }
+}
+The current price of amzn is: 3000.1200
+Enter the symbol of stock('quit' to quit): {
+    "Global Quote": {
+        "01. symbol": "GOOGL",
+        "02. open": "1496.1300",
+        "03. high": "1521.3200",
+        "04. low": "1489.7000",
+        "05. price": "1489.9200",
+        "06. volume": "2104000",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "1499.6500",
+        "09. change": "-9.7300",
+        "10. change percent": "-0.6488%"
+    }
+}
+The current price of googl is: 1489.9200
+Enter the symbol of stock('quit' to quit): {
+    "Global Quote": {
+        "01. symbol": "FB",
+        "02. open": "239.4100",
+        "03. high": "247.6500",
+        "04. low": "238.8200",
+        "05. price": "240.8600",
+        "06. volume": "27437200",
+        "07. latest trading day": "2020-07-07",
+        "08. previous close": "240.2800",
+        "09. change": "0.5800",
+        "10. change percent": "0.2414%"
+    }
+}
+The current price of fb is: 240.8600
+Enter the symbol of stock('quit' to quit): 
